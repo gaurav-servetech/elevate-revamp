@@ -231,6 +231,8 @@ function StoriesOfImpact() {
 export default function Testimonials() {
   return (
     <>
+      <StoriesOfImpact />
+
       <section className="bg-white px-4 py-14 sm:px-6 sm:py-16 lg:px-10 lg:py-20">
         <div className="mx-auto max-w-7xl">
           <div className="text-center">
@@ -295,8 +297,6 @@ export default function Testimonials() {
           </div>
         </div>
       </section>
-
-      <StoriesOfImpact />
     </>
   );
 }
