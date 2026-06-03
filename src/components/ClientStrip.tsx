@@ -6,7 +6,7 @@ import travellersLogo from "../assets/client-strip/travellers.svg";
 import { Card } from "../components/ui/card";
 import frame1 from "../assets/client-strip/serviceSectionIcon/Frame1.svg";
 import frame2 from "../assets/client-strip/serviceSectionIcon/Frame2.svg";
-import frame3 from "../assets/client-strip/serviceSectionIcon/Frame3.svg";
+import frame3 from "../assets/client-strip/serviceSectionIcon/frame3.svg";
 import frame4 from "../assets/client-strip/serviceSectionIcon/Frame4.svg";
 import frame5 from "../assets/client-strip/serviceSectionIcon/Frame5.svg";
 import frame6 from "../assets/client-strip/serviceSectionIcon/Frame6.svg";
