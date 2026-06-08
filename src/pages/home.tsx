@@ -6,7 +6,7 @@ import FooterSection from "../components/footerSection";
 
 export default function Home() {
   return (
-    <main className="min-h-[calc(200vh-4rem)] bg-[#113D77]">
+    <main className="min-h-[calc(200vh-4rem)] overflow-x-hidden bg-[#113D77]">
       <HeroSection />
       <ClientStrip />
       <Testimonials />
